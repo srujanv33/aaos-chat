@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.DummyChat" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
